@@ -109,7 +109,7 @@ export class HikVisionCamera {
       cameraConfig,
       this.homebridgeApi,
       this.homebridgeApi.hap,
-      ""
+        (accessory.context.videoProcessor) ? accessory.context.videoProcessor : ""
     );
 
     const cameraControllerOptions: CameraControllerOptions = {
