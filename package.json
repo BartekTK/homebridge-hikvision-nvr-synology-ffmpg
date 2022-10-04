@@ -1,12 +1,12 @@
 {
-  "name": "@modul8co/homebridge-hikvision-nvr",
-  "displayName": "Homebridge Hikvision NVR",
+  "name": "@BartekTK/homebridge-hikvision-nvr",
+  "displayName": "Homebridge Hikvision NVR Synology",
   "version": "1.0.3",
   "main": "dist/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/modul8co/homebridge-hikvision-nvr"
+    "url": "https://github.com/BartekTK/homebridge-hikvision-nvr-synology-ffmpg.git"
   },
   "dependencies": {
     "highland": "^2.13.5",
