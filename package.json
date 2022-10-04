@@ -1,5 +1,5 @@
 {
-  "name": "@BartekTK/homebridge-hikvision-nvr",
+  "name": "@bartektk/homebridge-hikvision-nvr",
   "displayName": "Homebridge Hikvision NVR Synology",
   "version": "1.0.3",
   "main": "dist/index.js",
